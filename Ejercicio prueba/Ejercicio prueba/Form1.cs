@@ -30,5 +30,17 @@ namespace Ejercicio_prueba
 
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int a, b,resta;
+            ;
+            a = int.Parse(textBox1.Text);
+            b = int.Parse(textBox2.Text);
+
+            resta = a - b;
+
+            textBox3.Text = resta.ToString();
+        }
     }
 }

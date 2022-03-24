@@ -8,3 +8,13 @@ C:\Users\AsensioEmilio\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio 
 C:\Users\AsensioEmilio\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\obj\Debug\Ejercicio prueba.csproj.CoreCompileInputs.cache
 C:\Users\AsensioEmilio\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\obj\Debug\Ejercicio prueba.exe
 C:\Users\AsensioEmilio\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\obj\Debug\Ejercicio prueba.pdb
+C:\Users\Sonsete\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\bin\Debug\Ejercicio prueba.exe.config
+C:\Users\Sonsete\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\bin\Debug\Ejercicio prueba.exe
+C:\Users\Sonsete\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\bin\Debug\Ejercicio prueba.pdb
+C:\Users\Sonsete\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\obj\Debug\Ejercicio prueba.csproj.AssemblyReference.cache
+C:\Users\Sonsete\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\obj\Debug\Ejercicio_prueba.Form1.resources
+C:\Users\Sonsete\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\obj\Debug\Ejercicio_prueba.Properties.Resources.resources
+C:\Users\Sonsete\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\obj\Debug\Ejercicio prueba.csproj.GenerateResource.cache
+C:\Users\Sonsete\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\obj\Debug\Ejercicio prueba.csproj.CoreCompileInputs.cache
+C:\Users\Sonsete\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\obj\Debug\Ejercicio prueba.exe
+C:\Users\Sonsete\source\repos\prueba1_24_03_22\Ejercicio prueba\Ejercicio prueba\obj\Debug\Ejercicio prueba.pdb
